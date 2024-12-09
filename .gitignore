@@ -1,0 +1,21 @@
+# Python compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Jupyter Notebook checkpoints
+*.ipynb_checkpoints
+
+# 환경 변수 파일
+.env
+
+# 로그 파일
+*.log
+
+# 데이터 파일
+*.csv
+*.json
+
+# IDE 설정 파일
+.vscode/
+.idea/
